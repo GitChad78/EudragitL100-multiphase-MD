@@ -31,7 +31,7 @@ Manuscript submitted to RSC Pharmaceuticals, 2025
 
 ## Raw Data and Trajectories
 All .xvg output files and .xtc trajectories deposited on Zenodo:
-DOI: 10.5281/zenodo.[XXXXX]
+DOI: 10.5281/zenodo.19471701
 
 ## Reproducing the Analysis
 1. Install GROMACS 2025.4
