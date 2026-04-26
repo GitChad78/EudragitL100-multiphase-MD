@@ -44,5 +44,5 @@ ax.text(0.28, 4.2, "0.28 nm", ha="center", fontsize=8, color="gray")
 ax.text(0.32, 3.6, "0.30 nm", ha="center", fontsize=8, color="blue")
 
 plt.tight_layout()
-plt.savefig("figure6_counterion_effects.png", dpi=300, bbox_inches="tight")
-print("Saved: figure6_counterion_effects.png")
+plt.savefig("figure10_counterion_effects.png", dpi=300, bbox_inches="tight")
+print("Saved: figure10_counterion_effects.png")

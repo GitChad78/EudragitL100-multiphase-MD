@@ -54,5 +54,5 @@ ax.set_ylabel("Film Density (kg/m3)")
 ax.set_title("(D) Film Density vs. Chain Count", fontweight="bold")
 
 plt.tight_layout()
-plt.savefig("figure4_multichain_film.png", dpi=300, bbox_inches="tight")
-print("Saved: figure4_multichain_film.png")
+plt.savefig("figure06_multichain_film.png", dpi=300, bbox_inches="tight")
+print("Saved: figure06_multichain_film.png")

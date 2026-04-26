@@ -52,5 +52,5 @@ ax.set_title("(D) Chain-Chain RDF at Increasing phi", fontweight="bold")
 ax.legend(fontsize=8)
 
 plt.tight_layout()
-plt.savefig("figure7_concentration_series.png", dpi=300, bbox_inches="tight")
-print("Saved: figure7_concentration_series.png")
+plt.savefig("figure11_concentration_series.png", dpi=300, bbox_inches="tight")
+print("Saved: figure11_concentration_series.png")

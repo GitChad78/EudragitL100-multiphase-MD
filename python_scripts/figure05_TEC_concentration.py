@@ -46,5 +46,5 @@ ax.set_ylabel("TEC-COO- H-bonds per Frame")
 ax.set_title("(D) TEC-Carboxylate Interactions", fontweight="bold")
 
 plt.tight_layout()
-plt.savefig("figure3_TEC_concentration.png", dpi=300, bbox_inches="tight")
-print("Saved: figure3_TEC_concentration.png")
+plt.savefig("figure05_TEC_concentration.png", dpi=300, bbox_inches="tight")
+print("Saved: figure05_TEC_concentration.png")

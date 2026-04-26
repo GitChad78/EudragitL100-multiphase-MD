@@ -51,5 +51,5 @@ ax.set_title("(D) Chain Expansion during pH Switch", fontweight="bold")
 ax.legend(fontsize=9)
 
 plt.tight_layout()
-plt.savefig("figure5_pH_switch.png", dpi=300, bbox_inches="tight")
-print("Saved: figure5_pH_switch.png")
+plt.savefig("figure08_pH_switch.png", dpi=300, bbox_inches="tight")
+print("Saved: figure08_pH_switch.png")

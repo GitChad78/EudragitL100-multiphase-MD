@@ -57,5 +57,5 @@ for bar, val, err in zip(bars, density, density_e):
             f"{val:.1f}+/-{err:.1f}", ha="center", fontsize=9, fontweight="bold")
 
 plt.tight_layout()
-plt.savefig("figure2_plasticizer_comparison.png", dpi=300, bbox_inches="tight")
-print("Saved: figure2_plasticizer_comparison.png")
+plt.savefig("figure03_plasticizer_comparison.png", dpi=300, bbox_inches="tight")
+print("Saved: figure03_plasticizer_comparison.png")
