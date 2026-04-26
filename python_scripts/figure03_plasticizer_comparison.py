@@ -13,7 +13,7 @@ density_e= [5.7, 5.7]
 colors   = ["#4C72B0", "#DD8452"]
 
 fig, axes = plt.subplots(2, 2, figsize=(10, 8))
-fig.suptitle("Figure 2. MD Simulation Comparison of PEG400 and TEC as Plasticizers for Eudragit L100 (50 ns)",
+fig.suptitle("Figure 3. MD Simulation Comparison of PEG400 and TEC as Plasticizers for Eudragit L100 (50 ns)",
              fontsize=12, fontweight="bold")
 
 ax = axes[0,0]

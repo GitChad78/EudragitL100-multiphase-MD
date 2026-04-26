@@ -9,7 +9,7 @@ freevol = [8.2,   11.4,  14.8,  16.3]
 hbonds  = [1.2,   1.8,   2.1,   2.4]
 
 fig, axes = plt.subplots(2, 2, figsize=(10, 8))
-fig.suptitle("Figure 3. Phase 1 - TEC Plasticizer Concentration on L100 Properties", fontsize=12, fontweight="bold")
+fig.suptitle("Figure 5. Phase 1 - TEC Plasticizer Concentration on L100 Properties", fontsize=12, fontweight="bold")
 
 ax = axes[0,0]
 ax.plot(tec_pct, rg, "o-", color="#4C72B0", lw=2, ms=8)

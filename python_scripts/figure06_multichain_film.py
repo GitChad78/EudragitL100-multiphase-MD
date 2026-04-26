@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 fig, axes = plt.subplots(2, 2, figsize=(11, 9))
-fig.suptitle("Figure 4. Phase 2 - Multi-Chain Film Model: Structural and Transport Properties", fontsize=12, fontweight="bold")
+fig.suptitle("Figure 6. Phase 2 - Multi-Chain Film Model: Structural and Transport Properties", fontsize=12, fontweight="bold")
 
 ax = axes[0,0]
 z = np.linspace(0, 10, 500)

@@ -8,7 +8,7 @@ sasa    = [19.79, 20.12, 20.41]
 colors  = ["#4C72B0", "#DD8452", "#55A868"]
 
 fig, axes = plt.subplots(1, 3, figsize=(13, 5))
-fig.suptitle("Figure 6. Phase 4 - NaHCO3 Counterion Effect on L100 Chain Conformation", fontsize=12, fontweight="bold")
+fig.suptitle("Figure 10. Phase 4 - NaHCO3 Counterion Effect on L100 Chain Conformation", fontsize=12, fontweight="bold")
 
 ax = axes[0]
 bars = ax.bar(labels, rg, color=colors, edgecolor="black", width=0.5)

@@ -11,7 +11,7 @@ colors  = ["#4C72B0","#55A868","#55A868","#DD8452"]
 rdf_labels = ["Dilute 1% w/v","Semi-dilute 5% w/v","Concentrated 10% w/v","Dense 15% w/v"]
 
 fig, axes = plt.subplots(2, 2, figsize=(11, 9))
-fig.suptitle("Figure 7. Phase 5 - Optimal L100 Concentration for Aqueous Film Coating", fontsize=12, fontweight="bold")
+fig.suptitle("Figure 11. Phase 5 - Optimal L100 Concentration for Aqueous Film Coating", fontsize=12, fontweight="bold")
 
 ax = axes[0,0]
 ax.semilogx(phi, rg, "o-", color="#4C72B0", lw=2, ms=8)

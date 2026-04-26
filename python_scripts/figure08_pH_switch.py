@@ -6,7 +6,7 @@ np.random.seed(42)
 t = np.linspace(0, 2, 200)
 
 fig, axes = plt.subplots(2, 2, figsize=(11, 9))
-fig.suptitle("Figure 5. Phase 3 - pH-Switch Simulation: Acid (pH 1.2) vs Intestinal (pH 6.8) Film Behaviour", fontsize=12, fontweight="bold")
+fig.suptitle("Figure 8. Phase 3 - pH-Switch Simulation: Acid (pH 1.2) vs Intestinal (pH 6.8) Film Behaviour", fontsize=12, fontweight="bold")
 
 ax = axes[0,0]
 water_acid = 143 + np.random.normal(0, 0.8, 200)
